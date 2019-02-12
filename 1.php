@@ -9,3 +9,4 @@ require "2.php";
 $a = 123;
 //
 $b = 'ddd';
+$c = 'asd';
