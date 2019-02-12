@@ -8,3 +8,4 @@ require "2.php";
 <?php
 $a = 123;
 //
+$b = 'ddd';
