@@ -12,3 +12,4 @@ $b = 'ddd';
 $c = 'asd';
 $d = 'asd';
 $e = 'bbb';
+$dd = 'asd';
